@@ -19,4 +19,6 @@ var func = () => {}
 ```python
 
 func = 1
+
+
 ```
